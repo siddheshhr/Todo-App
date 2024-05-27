@@ -17,9 +17,9 @@ cd toodoo
 
 npm install
 
-Then, navigate to the toodoo-app directory and install the React dependencies:
+Then, navigate to the react-app directory and install the React dependencies:
 
-cd toodoo-app
+cd react-app
 
 npm install
 --------------------------------------------------------------------------------------------------
@@ -31,9 +31,9 @@ cd ..
 node server.js
 --------------------------------------------------------------------------------------------------
 5. Start the React App
-To start the React application, navigate to the toodoo-app directory and run the following command:
+To start the React application, navigate to the react-app directory and run the following command:
 
-cd toodoo-app
+cd react-app
 
 npm start
 -----------------------------------------------------------------------------------------------------
